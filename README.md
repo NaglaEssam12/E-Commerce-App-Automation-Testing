@@ -18,4 +18,4 @@ Automate the provided test scenarios/cases to test the major features(Registerat
 
 3- Generate a professional report        
 # Used Technologies
-Cucumber, Selenium-java, Java, TestNg 
+Cucumber, Selenium-java, Java, TestNg & Gherkin
